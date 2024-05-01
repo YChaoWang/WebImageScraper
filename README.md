@@ -1,4 +1,4 @@
-# Web Image Scraper
+# Google Image Scraper (undetected-chromedriver)
 
 ## Requirements
 
